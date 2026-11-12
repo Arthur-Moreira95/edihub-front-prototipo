@@ -4,7 +4,7 @@
 
 Protótipo de front-end de uma plataforma que reúne editais de vestibulares e concursos, acompanha prazos e destaca retificações, para o estudante não perder nenhuma data importante.
 
-🔗 **Demo:** https://arthur-moreira95.github.io/edihub/
+🔗 **Demo:** EM BREVE
 
 > Protótipo de interface. Os dados são fictícios e login, checkout e alertas são simulados.
 
@@ -25,17 +25,6 @@ Protótipo de front-end de uma plataforma que reúne editais de vestibulares e c
 - HTML5 em arquivo único
 - [React 18](https://react.dev/) (UMD, via CDN)
 - [Tailwind CSS](https://tailwindcss.com/) (via CDN)
-
-## Como rodar localmente
-
-Não precisa instalar nada. Basta abrir o `index.html` no navegador (é necessária conexão com a internet para carregar React e Tailwind via CDN).
-
-Ou, com um servidor local:
-
-```bash
-python -m http.server 8000
-# abra http://localhost:8000
-```
 
 ## Autor
 
